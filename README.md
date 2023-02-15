@@ -7,8 +7,11 @@ Compile `Java`: javac Main.java -> java Main or Compile on VSCode
 Code yang saya buat menggunakan 4 class yaitu 3 diantaranya merupakan inheritance multilevel yaitu Human, Sivitas Akademik, dan Mahasiswa dan 1 class merupakan method Create and Read for the input and show the data.
 
 Adapun atribut yang digunakan yaitu:
+
 ● `Human` : NIK, nama, jenis_kelamin `String`
+
 ● `SivitasAkademik` : asal_universitas, email_edu `String`
+
 ● `Mahasiswa` : NIM, nama, jenis_kelamin, fakultas, prodi `String`
 
 Tiap attribut diatas mempunyai setter dan getternya masing-masing pada class `Mahasiswa`.
