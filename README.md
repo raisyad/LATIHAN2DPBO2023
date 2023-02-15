@@ -20,7 +20,7 @@ Adapun atribut yang digunakan yaitu:
 
 Tiap attribut diatas mempunyai setter dan getternya masing-masing pada class `Mahasiswa`.
 
-Alur program:
+# Alur program:
 Pertama - tama ketika menjalankan `Java`, user akan diberikan sebuah menu 1 - 2 yaitu :
 1. Jika user memilih 1, user diharuskan menginputkan beberapa data seperti yang tertera pada Attr diatas
 <img width="185" alt="SS-1" src="https://user-images.githubusercontent.com/92106283/218928409-0d2bf3de-086e-4db3-bd04-bb1cf8fa0140.png">
