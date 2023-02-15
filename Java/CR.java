@@ -2,9 +2,15 @@
 // Saya Raisyad Jullfikar NIM 2106238 mengerjakan Latihan 2 
 // dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk 
 // keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+// Import Library
 import java.util.*;
 
+// Class Cr yang berisi data list dari class mahasiswa yang akan
+// digunakan untuk menginputkan dan menampilkan data list tsb, seperti
+// Create, Read/Show
 public class CR {
+  // Private attr string
   private String NIK,
       name,
       jenis_kelamin,
@@ -14,9 +20,11 @@ public class CR {
       fakultas,
       prodi;
 
+  // Construct kosong
   public CR() {
   }
 
+  // Method Create Data
   public void Create(ArrayList<Mahasiswa> list) {
     Scanner sc = new Scanner(System.in).useLocale(Locale.US);
     Mahasiswa dataIn = new Mahasiswa();
@@ -56,6 +64,7 @@ public class CR {
     list.add(dataIn);
   }
 
+  // Method Read Data
   public void Read(ArrayList<Mahasiswa> list) {
     System.out.println("\nList Data yang telah diinputkan: \n");
     for (int i = 0; i < list.size(); i++) {
