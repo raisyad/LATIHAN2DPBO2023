@@ -6,6 +6,10 @@ Compile `Java`: javac Main.java -> java Main or Compile on VSCode
 
 Code yang saya buat menggunakan 4 class yaitu 3 diantaranya merupakan inheritance multilevel yaitu Human, Sivitas Akademik, dan Mahasiswa dan 1 class merupakan method Create and Read for the input and show the data.
 
+* Alasan : 
+* Alasan memilih inheritance multilevel Human -> Sivitas Akademik -> Mahasiswa.
+* Karena Human memiliki identitas global yang mendeklarasikan manusia yang diantaranya mempunyai attr seperti NIK, nama dan jenis kelamin, kemudian untuk penurunan sifat dari Human sendiri saya memilih Sivitas Akademik karena Sivitas Akademik adalah manusia juga kemudian pewarisan sifat dari Sivitas Akademik adalah Mahasiswa, karena, lebih masuk akal ketika Alurnya diturunkan dari Human -> Sivitas Akademik -> Mahasiswa atau ketika dilihat dari bawah, maka Mahasiswa adalah Sivitas Akademik dan Sivitas Akademik adalah Manusia.
+
 Adapun atribut yang digunakan yaitu:
 
 ● `Human` : NIK, nama, jenis_kelamin `String`
