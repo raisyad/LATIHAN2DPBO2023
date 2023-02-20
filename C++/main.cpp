@@ -1,3 +1,7 @@
+// Saya Raisyad Jullfikar NIM 2106238 mengerjakan Latihan 2 
+// dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk 
+// keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 // Import Library
 #include <string>
 #include <iostream>
