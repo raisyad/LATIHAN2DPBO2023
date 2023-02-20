@@ -1,4 +1,8 @@
 <?php 
+// Saya Raisyad Jullfikar NIM 2106238 mengerjakan Latihan 2 
+// dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk 
+// keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
   // Class Sivitas Akademik yang merupakan anak dari class Human
   // Merupakan class yang berisikan data - data akademika
   // Seperti Asal Univ dan Email Pendidikan (email edu)
