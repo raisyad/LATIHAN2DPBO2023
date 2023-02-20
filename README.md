@@ -9,8 +9,11 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 - SivitasAkademik : asal_universitas, email_edu
 
 Compile `Java`   : javac Main.java -> java Main or Compile on VSCode
+
 Compile `c++`    : g++ main.cpp -o a
+
 Compile `Python` : python main.py
+
 Compile `PHP`    : access using xampp
 
 # Desain Program
@@ -34,6 +37,7 @@ Adapun atribut yang digunakan yaitu:
 Tiap attribut diatas mempunyai setter dan getternya masing-masing pada class nya masing - masing `Human`, `Sivitas Akademik`, `Mahasiswa` kecuali pada class `CR` yang hanya berisi proses penginputan data dan menampilkan data.
 
 Berikut adalah design dari program dengan menggunakan class diagram.
+
 ![UML drawio](https://user-images.githubusercontent.com/92106283/220127290-fe5c5686-e972-4b67-861c-15e160d50339.png)
 
 
